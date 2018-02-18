@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ChessZoneClient_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ChessZoneClient_main.iml" group="ChessZoneClient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ChessZoneClient_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ChessZoneClient_test.iml" group="ChessZoneClient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ChessZoneService.iml" filepath="$PROJECT_DIR$/.idea/modules/ChessZoneService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ChessZoneService_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ChessZoneService_main.iml" group="ChessZoneService" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ChessZoneService_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ChessZoneService_test.iml" group="ChessZoneService" />
+    </modules>
+  </component>
+</project>

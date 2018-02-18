@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":ChessZoneGUI" external.linked.project.path="$MODULE_DIR$/../../../ChessZoneGUI" external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="ChessZoneService" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../ChessZoneGUI">
+      <excludeFolder url="file://$MODULE_DIR$/../../../ChessZoneGUI/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ChessZoneGUI/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../ChessZoneGUI/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

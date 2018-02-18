@@ -1,0 +1,27 @@
+{
+  "name": "npm-sample",
+  "version": "1.0.0",
+  "description": "Creating a sample package.json",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AM",
+  "license": "ISC",
+  "dependencies": {
+    "@stomp/stompjs": "^4.0.1",
+    "jquery": "^3.3.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "rest": "^2.0.0",
+    "sockjs-client": "^1.1.4",
+    "webpack": "^3.11.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-polyfill": "^6.16.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}
